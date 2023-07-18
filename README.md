@@ -23,3 +23,13 @@ The project deliverables include the following:
 
 ### Acknowledgments
 I would like to express my gratitude to Datacamp for providing the dataset for this case study. The project is intended for educational purposes only, and all data used is anonymized and fictional.
+
+### Snippets
+
+![1](https://github.com/rishi71095/Case-Study-Analyzing-Customer-Churn-in-Power-BI/assets/89761919/1709daba-22eb-426d-9a99-3ee019268e16)
+
+![2](https://github.com/rishi71095/Case-Study-Analyzing-Customer-Churn-in-Power-BI/assets/89761919/37fcf06c-4748-4258-b4b3-4c17686e9758)
+
+![3](https://github.com/rishi71095/Case-Study-Analyzing-Customer-Churn-in-Power-BI/assets/89761919/f54257a7-7e32-4d5d-9c34-1eab206669bd)
+
+![4](https://github.com/rishi71095/Case-Study-Analyzing-Customer-Churn-in-Power-BI/assets/89761919/5f71b787-d0dd-4bcb-8a7d-d3e0ae301725)
