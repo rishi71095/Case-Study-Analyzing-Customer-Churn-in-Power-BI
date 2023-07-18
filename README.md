@@ -18,7 +18,7 @@ Churn Reduction Strategies: Based on the analysis, propose data-driven strategie
 * Project Deliverables
 The project deliverables include the following:
     * Power BI Report: A dynamic and visually appealing report in PDF format showcasing churn analysis, insights, and visualizations.
-    * Video of dashboard/report: As it cannot be published. 
+    * Video dashboard/report: As it cannot be published. 
 **Video link**: https://www.youtube.com/watch?v=0720uEHQUAE
 
 ### Acknowledgments
